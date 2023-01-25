@@ -1,6 +1,2 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-ahmoham 
+# Using Excel to Create Data Visualizations
+In this project, I will be using a dataset that includes information about customers that purchase bikes. This is sample data from a retail bike store. 
